@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Disable Shorts permission
+// @name         Disable Shorts permission (Press F9)
 // @namespace    http://flytech.video
 // @version      0.1
 // @description  Press F9 while on a YouTube Studio video page to disable the Shorts remix permission and save automatically.
